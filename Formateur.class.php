@@ -1,5 +1,5 @@
 <?php
-require './Personne.class.php';
+require './heritage/Personne.class.php';
 class Formateur extends Personne
 {
 
