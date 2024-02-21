@@ -45,5 +45,4 @@ abstract class Personne
 
 
 
-// $formateur = new Formateur(3, "Johnson", "Michael", 6, 12, 2000);
-// echo $formateur;
+
